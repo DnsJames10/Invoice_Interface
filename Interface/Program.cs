@@ -30,7 +30,8 @@ namespace Interface
             Console.Write(carRental.Invoice);
             Console.WriteLine();
             Console.WriteLine("-------------------------");
-
+            Console.WriteLine();
+            Console.WriteLine("Obrigado, voltem sempre!");
 
 
         }
