@@ -25,8 +25,11 @@ namespace Interface
             rentalService.ProcessInvoice(carRental);
             
             Console.WriteLine("INVOICE");
-            
+            Console.WriteLine("-------------------------");
+            Console.WriteLine();
             Console.Write(carRental.Invoice);
+            Console.WriteLine();
+            Console.WriteLine("-------------------------");
 
 
 
